@@ -111,4 +111,56 @@
   document.querySelectorAll("[data-year]").forEach(function (el) {
     el.textContent = new Date().getFullYear();
   });
+
+  /* ---------- Reading progress (article pages) ---------- */
+  var postBody = document.querySelector(".post-body");
+  if (postBody && !prefersReduced) {
+    var bar = document.createElement("div");
+    bar.className = "reading-progress";
+    bar.setAttribute("aria-hidden", "true");
+    document.body.appendChild(bar);
+    var update = function () {
+      var rect = postBody.getBoundingClientRect();
+      var total = rect.height - window.innerHeight;
+      var done = Math.min(Math.max(-rect.top, 0), Math.max(total, 1));
+      bar.style.width = (done / Math.max(total, 1) * 100) + "%";
+    };
+    window.addEventListener("scroll", update, { passive: true });
+    window.addEventListener("resize", update);
+    update();
+  }
+
+  /* ---------- Contact form -> Formspark ---------- */
+  var form = document.getElementById("contact-form");
+  if (form) {
+    var status = form.querySelector(".form-status");
+    var submitBtn = form.querySelector(".form-submit");
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      if (status) { status.hidden = true; status.className = "form-status"; }
+      var data = {};
+      new FormData(form).forEach(function (v, k) { data[k] = v; });
+      if (data._email) return; // honeypot — silently drop bots
+      submitBtn.disabled = true;
+      fetch(form.action, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Accept: "application/json" },
+        body: JSON.stringify(data)
+      }).then(function (res) {
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        form.reset();
+        if (status) {
+          status.textContent = "Thanks — your request is in. We'll get back to you within one business day.";
+          status.classList.add("is-ok");
+          status.hidden = false;
+        }
+      }).catch(function () {
+        if (status) {
+          status.textContent = "Something went wrong. Email us directly at info@beehivedesign.ie or WhatsApp +353 85 179 1491.";
+          status.classList.add("is-error");
+          status.hidden = false;
+        }
+      }).finally(function () { submitBtn.disabled = false; });
+    });
+  }
 })();

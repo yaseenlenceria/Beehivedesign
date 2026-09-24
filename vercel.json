@@ -2,22 +2,80 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "redirects": [
-    { "source": "/blogs", "destination": "/blog", "permanent": true },
-    { "source": "/contact-1", "destination": "/contact", "permanent": true },
-    { "source": "/our-services", "destination": "/seo-services-ireland", "permanent": true },
-    { "source": "/process-section", "destination": "/about", "permanent": true },
-    { "source": "/why-businesses-work-with-us", "destination": "/about", "permanent": true },
-    { "source": "/testimonials-1", "destination": "/", "permanent": true },
-    { "source": "/team-1", "destination": "/about", "permanent": true },
-    { "source": "/careers", "destination": "/about", "permanent": true },
-    { "source": "/featured-work", "destination": "/", "permanent": true },
-    { "source": "/beehive-design-ireland-on-google-maps", "destination": "/contact", "permanent": true },
-    { "source": "/best-seo-experts-agency-in-ireland", "destination": "/seo-consultant-ireland", "permanent": true },
-    { "source": "/how-much-does-a-website-cost-in-ireland", "destination": "/blog/app-development-cost-in-ireland-your-guide-to-building-apps-in-2025", "permanent": true },
-    { "source": "/top-7-mobile-app-developers-in-ireland", "destination": "/blog/app-development-cost-in-ireland-your-guide-to-building-apps-in-2025", "permanent": true },
-    { "source": "/app-development-company-in-ireland", "destination": "/blog/app-development-cost-in-ireland-your-guide-to-building-apps-in-2025", "permanent": true },
-    { "source": "/best-website-development-agency-in-ireland", "destination": "/seo-services-ireland", "permanent": true },
-    { "source": "/shopify-expert-agency-in-ireland", "destination": "/blog/best-shopify-seo-agencies-in-ireland", "permanent": true },
-    { "source": "/top-10-best-seo-companies-in-dublin-ireland", "destination": "/blog/top-10-best-seo-companies-in-ireland-2025-rankings-reviews", "permanent": true }
+    {
+      "source": "/blogs",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/contact-1",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/our-services",
+      "destination": "/seo-services-ireland",
+      "permanent": true
+    },
+    {
+      "source": "/process-section",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/why-businesses-work-with-us",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/testimonials-1",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/team-1",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/careers",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/beehive-design-ireland-on-google-maps",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
+      "source": "/best-seo-experts-agency-in-ireland",
+      "destination": "/seo-consultant-ireland",
+      "permanent": true
+    },
+    {
+      "source": "/how-much-does-a-website-cost-in-ireland",
+      "destination": "/blog/app-development-cost-in-ireland-your-guide-to-building-apps-in-2025",
+      "permanent": true
+    },
+    {
+      "source": "/top-7-mobile-app-developers-in-ireland",
+      "destination": "/blog/app-development-cost-in-ireland-your-guide-to-building-apps-in-2025",
+      "permanent": true
+    },
+    {
+      "source": "/app-development-company-in-ireland",
+      "destination": "/blog/app-development-cost-in-ireland-your-guide-to-building-apps-in-2025",
+      "permanent": true
+    },
+    {
+      "source": "/best-website-development-agency-in-ireland",
+      "destination": "/seo-services-ireland",
+      "permanent": true
+    },
+    {
+      "source": "/top-10-best-seo-companies-in-dublin-ireland",
+      "destination": "/blog/top-10-best-seo-companies-in-ireland-2025-rankings-reviews",
+      "permanent": true
+    }
   ]
 }
