@@ -1081,3 +1081,29 @@ h1, h2, h3, h4 {
   transition: color 0.3s;
 }
 .related-card:hover h3 { color: var(--honey); }
+
+/* ---------- Charts ---------- */
+.chart-fig { margin: 2.2rem 0; }
+.chart-fig svg { width: 100%; height: auto; display: block; }
+.chart-fig figcaption, .chart-note {
+  font-size: 0.78rem;
+  color: var(--stone);
+  margin-top: 0.8rem;
+  max-width: 62ch;
+}
+.chart-legend {
+  display: flex;
+  gap: 1.6rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.9rem;
+  font-size: 0.8rem;
+  color: var(--ink-3);
+}
+.chart-legend .sw {
+  display: inline-block;
+  width: 10px; height: 10px;
+  border-radius: 3px;
+  margin-right: 0.45rem;
+  vertical-align: -1px;
+}
+.chart-fig { background: var(--paper-soft); border: 1px solid var(--line); border-radius: var(--radius); padding: 1.5rem 1.5rem 1.2rem; }
