@@ -10,6 +10,7 @@
   if (toggle && nav) {
     toggle.addEventListener("click", function () {
       var open = nav.classList.toggle("is-open");
+      if (open) nav.scrollTop = 0;
       toggle.setAttribute("aria-expanded", open ? "true" : "false");
       document.body.style.overflow = open ? "hidden" : "";
     });
@@ -27,6 +28,7 @@
   var lastY = 0;
   if (header) {
     window.addEventListener("scroll", function () {
+      if (nav && nav.classList.contains("is-open")) { lastY = window.scrollY; return; }
       var y = window.scrollY;
       if (y > 320 && y > lastY) header.classList.add("is-hidden");
       else header.classList.remove("is-hidden");

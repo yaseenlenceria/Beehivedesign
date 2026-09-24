@@ -244,19 +244,33 @@ h1, h2, h3, h4 {
   .header-cta { display: none; }
   .nav-toggle { display: block; }
   .main-nav {
-    position: fixed;
-    inset: 0;
-    background: var(--paper);
+    /* backdrop-filter on .site-header makes it the containing block for fixed
+       children — so the menu must be absolute, hung below the header bar */
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    height: calc(100dvh - 76px);
+    background: var(--paper-soft);
+    box-shadow: 0 40px 80px -40px rgba(16, 16, 16, 0.45);
     display: flex;
     align-items: center;
     justify-content: center;
-    transform: translateY(-100%);
-    transition: transform 0.6s var(--ease-out);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-16px);
+    overflow: hidden auto;
+    transition: opacity 0.5s var(--ease-out), transform 0.5s var(--ease-out), visibility 0s 0.5s;
     z-index: 101;
   }
-  .main-nav.is-open { transform: translateY(0); }
-  .main-nav ul { flex-direction: column; gap: 1.6rem; text-align: center; }
-  .main-nav a { font-family: var(--font-display); font-size: 1.9rem; }
+  .main-nav.is-open {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+    transition: opacity 0.5s var(--ease-out), transform 0.5s var(--ease-out);
+  }
+  .main-nav ul { flex-direction: column; gap: 1.2rem; text-align: center; padding: 2rem 1.5rem; }
+  .main-nav a { font-family: var(--font-display); font-size: 1.55rem; }
 }
 
 /* ---------- Hero ---------- */
@@ -894,6 +908,7 @@ h1, h2, h3, h4 {
 }
 
 @media (max-width: 800px) {
+  .prose table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
   .post-card-featured { grid-template-columns: 1fr; }
   .post-card-featured .post-card-img { border-right: 0; border-bottom: 1px solid var(--line); min-height: 220px; aspect-ratio: 2 / 1; }
 }
@@ -1107,3 +1122,26 @@ h1, h2, h3, h4 {
   vertical-align: -1px;
 }
 .chart-fig { background: var(--paper-soft); border: 1px solid var(--line); border-radius: var(--radius); padding: 1.5rem 1.5rem 1.2rem; }
+
+/* ---------- Code blocks (migrated articles) ---------- */
+.prose pre {
+  background: var(--ink);
+  color: var(--paper);
+  padding: 1.2rem 1.4rem;
+  border-radius: var(--radius);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin: 0 0 1.6rem;
+  max-width: 100%;
+}
+.prose pre code {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  line-height: 1.6;
+  white-space: pre;
+  color: inherit;
+}
+.prose code { font-family: var(--font-mono); font-size: 0.9em; }
+
+/* Long URLs in prose must never widen the page */
+.prose a, .prose li, .takeaways li { overflow-wrap: anywhere; }
