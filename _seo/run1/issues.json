@@ -1,0 +1,191 @@
+[
+  {
+    "url": "https://beehivedesign.vercel.app/",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/\", \"url\": \"https://www.beehivedesign.ie/\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/seo-services-ireland",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/seo-services-ireland\", \"url\": \"https://www.beehivedesign.ie/seo-services-ireland\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/seo-consultant-ireland",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/seo-consultant-ireland\", \"url\": \"https://www.beehivedesign.ie/seo-consultant-ireland\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/local-seo-services-ireland",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/local-seo-services-ireland\", \"url\": \"https://www.beehivedesign.ie/local-seo-services-ireland\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/about",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/about\", \"url\": \"https://www.beehivedesign.ie/about\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog\", \"url\": \"https://www.beehivedesign.ie/blog\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/contact",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/contact\", \"url\": \"https://www.beehivedesign.ie/contact\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/top-seo-consultant-in-ireland-what-is-seo-why-your-business-needs-it",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/top-seo-consultant-in-ireland-what-is-seo-why-your-business-needs-it\", \"url\": \"https://www.beehivedesign.ie/blog/top-seo-consultant-in-ireland-what-is-seo-why-your-business-needs-it\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/best-seo-consultants-agencies-in-ireland-2025-edition",
+    "code": "multiple_h1_review",
+    "severity": "low",
+    "evidence": "[\"Best SEO Consultants & Agencies in Ireland (2025 Edition)\", \"10 Best SEO Companies for Ireland: Handpicked by an Expert (2025 Review)\"]",
+    "action": "Review heading hierarchy; multiple H1s alone do not establish an SEO defect.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/best-seo-consultants-agencies-in-ireland-2025-edition",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/best-seo-consultants-agencies-in-ireland-2025-edition\", \"url\": \"https://www.beehivedesign.ie/blog/best-seo-consultants-agencies-in-ireland-2025-edition\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/app-development-cost-in-ireland-your-guide-to-building-apps-in-2025",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/app-development-cost-in-ireland-your-guide-to-building-apps-in-2025\", \"url\": \"https://www.beehivedesign.ie/blog/app-development-cost-in-ireland-your-guide-to-building-apps-in-2025\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/top-10-private-practice-marketing-companies-in-the-usa",
+    "code": "multiple_h1_review",
+    "severity": "low",
+    "evidence": "[\"Top 10 Private Practice Marketing Companies in the USA for 2026\", \"What Should a Doctor Look for in a Marketing Partner?\", \"Which Type of Company Is Right for Your Practice?\", \"Start With Your Current Practice\"]",
+    "action": "Review heading hierarchy; multiple H1s alone do not establish an SEO defect.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/top-10-private-practice-marketing-companies-in-the-usa",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/top-10-private-practice-marketing-companies-in-the-usa\", \"url\": \"https://www.beehivedesign.ie/blog/top-10-private-practice-marketing-companies-in-the-usa\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/10-best-wedding-planners-in-ireland-for-2026",
+    "code": "multiple_h1_review",
+    "severity": "low",
+    "evidence": "[\"10 Best Wedding Planners in Ireland for 2026\", \"How to Choose the Best Wedding Planner in Ireland\", \"Do You Really Need a Wedding Planner?\", \"Why Weddings with Erica Is Our Top Pick\"]",
+    "action": "Review heading hierarchy; multiple H1s alone do not establish an SEO defect.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/10-best-wedding-planners-in-ireland-for-2026",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/10-best-wedding-planners-in-ireland-for-2026\", \"url\": \"https://www.beehivedesign.ie/blog/10-best-wedding-planners-in-ireland-for-2026\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/top-10-best-seo-companies-in-ireland-2025-rankings-reviews",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/top-10-best-seo-companies-in-ireland-2025-rankings-reviews\", \"url\": \"https://www.beehivedesign.ie/blog/top-10-best-seo-companies-in-ireland-2025-rankings-reviews\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/top-10-seo-companies-in-cork-ireland-2025-edition",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/top-10-seo-companies-in-cork-ireland-2025-edition\", \"url\": \"https://www.beehivedesign.ie/blog/top-10-seo-companies-in-cork-ireland-2025-edition\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/best-shopify-seo-agencies-in-ireland",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/best-shopify-seo-agencies-in-ireland\", \"url\": \"https://www.beehivedesign.ie/blog/best-shopify-seo-agencies-in-ireland\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/5-digital-marketing-trends-shaping-the-irish-business-scene",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/5-digital-marketing-trends-shaping-the-irish-business-scene\", \"url\": \"https://www.beehivedesign.ie/blog/5-digital-marketing-trends-shaping-the-irish-business-scene\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/the-power-of-localized-marketing-in-ireland",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/the-power-of-localized-marketing-in-ireland\", \"url\": \"https://www.beehivedesign.ie/blog/the-power-of-localized-marketing-in-ireland\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/strategic-brand-positioning-for-irish-marketing-agencies",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/strategic-brand-positioning-for-irish-marketing-agencies\", \"url\": \"https://www.beehivedesign.ie/blog/strategic-brand-positioning-for-irish-marketing-agencies\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http"
+  }
+]

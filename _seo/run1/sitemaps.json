@@ -1,0 +1,79 @@
+{
+  "fetches": [
+    {
+      "url": "https://beehivedesign.vercel.app/sitemap.xml",
+      "status": 200,
+      "error": "",
+      "fetched_at": "2026-09-24T12:25:17.678359+00:00",
+      "sha256": "d34488a1d0585150d5b2d55bcd793e42a0a07276b1634c7ae7ecf9d6eeba1ff4",
+      "redirects": [],
+      "entries": 18,
+      "http_events": [
+        {
+          "url": "https://beehivedesign.vercel.app/sitemap.xml",
+          "status": 200,
+          "error": "",
+          "fetched_at": "2026-09-24T12:25:17.678457+00:00",
+          "retry_after": null,
+          "challenge_detected": false
+        }
+      ],
+      "access": {
+        "code": "response_received",
+        "confidence": "observed",
+        "evidence": "HTTP 200 received; no supported denial/challenge marker detected."
+      },
+      "kind": "urlset",
+      "xml_path": "sitemap-evidence/6371f8ea9d2d1435999f65d6da33d4c8a32363c0e0d469e094f2542efda03bd6.xml"
+    },
+    {
+      "url": "https://beehivedesign.vercel.app/sitemap_index.xml",
+      "status": 404,
+      "error": "",
+      "fetched_at": "2026-09-24T12:25:18.186017+00:00",
+      "sha256": "0d98b61ca581a73a3686e9d065517c0436ff09a831bf75413368b21b34ced1d1",
+      "redirects": [],
+      "entries": 0,
+      "http_events": [
+        {
+          "url": "https://beehivedesign.vercel.app/sitemap_index.xml",
+          "status": 404,
+          "error": "",
+          "fetched_at": "2026-09-24T12:25:18.186065+00:00",
+          "retry_after": null,
+          "challenge_detected": false
+        }
+      ],
+      "access": {
+        "code": "http_error",
+        "confidence": "observed",
+        "evidence": "HTTP 404"
+      }
+    },
+    {
+      "url": "https://beehivedesign.vercel.app/wp-sitemap.xml",
+      "status": 404,
+      "error": "",
+      "fetched_at": "2026-09-24T12:25:18.726962+00:00",
+      "sha256": "b7e5e0253aaf7a9fe0b3dd0f269b9769397e47cae4eaa3f4efcf509c18ca2b59",
+      "redirects": [],
+      "entries": 0,
+      "http_events": [
+        {
+          "url": "https://beehivedesign.vercel.app/wp-sitemap.xml",
+          "status": 404,
+          "error": "",
+          "fetched_at": "2026-09-24T12:25:18.727003+00:00",
+          "retry_after": null,
+          "challenge_detected": false
+        }
+      ],
+      "access": {
+        "code": "http_error",
+        "confidence": "observed",
+        "evidence": "HTTP 404"
+      }
+    }
+  ],
+  "urls": []
+}

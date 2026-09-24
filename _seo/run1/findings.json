@@ -1,0 +1,737 @@
+[
+  {
+    "url": "https://beehivedesign.vercel.app/",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/\", \"url\": \"https://www.beehivedesign.ie/\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/\", \"url\": \"https://www.beehivedesign.ie/\"}]",
+    "captured_at": "2026-09-24T12:25:19.229609+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/",
+        "captured_at": "2026-09-24T12:25:19.229609+00:00",
+        "representation": "http",
+        "body_sha256": "ae6372d35536fad89df01420ad81f235ca9f745e98527f31a8e211aad378a72f",
+        "html_path": "html/31dacdeb664693424dd1150f693d5e650ea99251dce54f07b949f0dc9e8be5a6.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/seo-services-ireland",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/seo-services-ireland\", \"url\": \"https://www.beehivedesign.ie/seo-services-ireland\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/seo-services-ireland"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/seo-services-ireland\", \"url\": \"https://www.beehivedesign.ie/seo-services-ireland\"}]",
+    "captured_at": "2026-09-24T12:25:19.824334+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/seo-services-ireland",
+        "captured_at": "2026-09-24T12:25:19.824334+00:00",
+        "representation": "http",
+        "body_sha256": "0258dfea9c002000f409d162385f163898dd407782d171d3a7d0ef611779b4d3",
+        "html_path": "html/3d1f0da17718f44514088da42241b762ab88f68556e86955164f65467e3665fe.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/seo-consultant-ireland",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/seo-consultant-ireland\", \"url\": \"https://www.beehivedesign.ie/seo-consultant-ireland\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/seo-consultant-ireland"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/seo-consultant-ireland\", \"url\": \"https://www.beehivedesign.ie/seo-consultant-ireland\"}]",
+    "captured_at": "2026-09-24T12:25:19.824096+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/seo-consultant-ireland",
+        "captured_at": "2026-09-24T12:25:19.824096+00:00",
+        "representation": "http",
+        "body_sha256": "2d142e70ba280f19bd5f4860a4bd6ef9cac11c8faa022ccf5639ba70c73b111c",
+        "html_path": "html/78896550f6821ab368f32877d2d7ee316c98e91a04b9d22e52753d3f335876d3.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/local-seo-services-ireland",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/local-seo-services-ireland\", \"url\": \"https://www.beehivedesign.ie/local-seo-services-ireland\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/local-seo-services-ireland"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/local-seo-services-ireland\", \"url\": \"https://www.beehivedesign.ie/local-seo-services-ireland\"}]",
+    "captured_at": "2026-09-24T12:25:19.824454+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/local-seo-services-ireland",
+        "captured_at": "2026-09-24T12:25:19.824454+00:00",
+        "representation": "http",
+        "body_sha256": "32736572ef7108661b2aea43fac8803dd1873a06d86c26429e2e2ead982b7045",
+        "html_path": "html/f48c38540106b3f620cdeba2075a9831fd4ce61247033d7546a5c9f077971754.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/about",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/about\", \"url\": \"https://www.beehivedesign.ie/about\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/about"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/about\", \"url\": \"https://www.beehivedesign.ie/about\"}]",
+    "captured_at": "2026-09-24T12:25:19.824713+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/about",
+        "captured_at": "2026-09-24T12:25:19.824713+00:00",
+        "representation": "http",
+        "body_sha256": "5daeca61db73337952c072695cf5bc1e931680fd56f77c598797a5580914cb17",
+        "html_path": "html/aaa5852d16f09cfc656074a1ab17288df4361398a29b21543c9ee10851e8114f.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog\", \"url\": \"https://www.beehivedesign.ie/blog\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/blog"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/blog\", \"url\": \"https://www.beehivedesign.ie/blog\"}]",
+    "captured_at": "2026-09-24T12:25:21.855141+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/blog",
+        "captured_at": "2026-09-24T12:25:21.855141+00:00",
+        "representation": "http",
+        "body_sha256": "b122ffc5d2d1bca3bf688bb3fb88c01797566fb42de5a8bc13b5c1e71dd9ea77",
+        "html_path": "html/7a68cca36071199094de9c47f353a3fd8083b1d8666126b8bccb335c463b2dc2.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/contact",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/contact\", \"url\": \"https://www.beehivedesign.ie/contact\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/contact"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/contact\", \"url\": \"https://www.beehivedesign.ie/contact\"}]",
+    "captured_at": "2026-09-24T12:25:21.855435+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/contact",
+        "captured_at": "2026-09-24T12:25:21.855435+00:00",
+        "representation": "http",
+        "body_sha256": "b640688c2677715348afb8584fe3fa56d98646c5eeede5563f45d6cbdf363b41",
+        "html_path": "html/d18a0b2de90b8d4177f5bed260e09d70ca08414e6436125b3f4f7f8823fc3064.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/top-seo-consultant-in-ireland-what-is-seo-why-your-business-needs-it",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/top-seo-consultant-in-ireland-what-is-seo-why-your-business-needs-it\", \"url\": \"https://www.beehivedesign.ie/blog/top-seo-consultant-in-ireland-what-is-seo-why-your-business-needs-it\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/blog/top-seo-consultant-in-ireland-what-is-seo-why-your-business-needs-it"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/blog/top-seo-consultant-in-ireland-what-is-seo-why-your-business-needs-it\", \"url\": \"https://www.beehivedesign.ie/blog/top-seo-consultant-in-ireland-what-is-seo-why-your-business-needs-it\"}]",
+    "captured_at": "2026-09-24T12:25:21.855269+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/blog/top-seo-consultant-in-ireland-what-is-seo-why-your-business-needs-it",
+        "captured_at": "2026-09-24T12:25:21.855269+00:00",
+        "representation": "http",
+        "body_sha256": "d7d9dd659f83caea40d1272cdabd6f3c025b13faa5579358de5801096f602aa0",
+        "html_path": "html/7d878705ecc7d643cb2da95fd4f3c2ad12329fbbbdbd3e2a89fc24a32f66f53d.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/best-seo-consultants-agencies-in-ireland-2025-edition",
+    "code": "multiple_h1_review",
+    "severity": "low",
+    "evidence": "[\"Best SEO Consultants & Agencies in Ireland (2025 Edition)\", \"10 Best SEO Companies for Ireland: Handpicked by an Expert (2025 Review)\"]",
+    "action": "Review heading hierarchy; multiple H1s alone do not establish an SEO defect.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/blog/best-seo-consultants-agencies-in-ireland-2025-edition"
+    ],
+    "observation": "[\"Best SEO Consultants & Agencies in Ireland (2025 Edition)\", \"10 Best SEO Companies for Ireland: Handpicked by an Expert (2025 Review)\"]",
+    "captured_at": "2026-09-24T12:25:21.855350+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "Review this recorded signal in the context of the page's intended customer journey.",
+    "business_relevance": null,
+    "recommended_action": "Review heading hierarchy; multiple H1s alone do not establish an SEO defect.",
+    "priority": "P3",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Apply the stated action on the affected URL, recrawl it, and compare this exact evidence and issue code with the prior capture.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/blog/best-seo-consultants-agencies-in-ireland-2025-edition",
+        "captured_at": "2026-09-24T12:25:21.855350+00:00",
+        "representation": "http",
+        "body_sha256": "0b7bf12378ef706796bc95da091b482abdc0384b38eff4ed1938887bb56c1a33",
+        "html_path": "html/190772c3575315de7dfd5a2a14e5bfeb66be0499715a7af198f23fdd8e1f49c9.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/best-seo-consultants-agencies-in-ireland-2025-edition",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/best-seo-consultants-agencies-in-ireland-2025-edition\", \"url\": \"https://www.beehivedesign.ie/blog/best-seo-consultants-agencies-in-ireland-2025-edition\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/blog/best-seo-consultants-agencies-in-ireland-2025-edition"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/blog/best-seo-consultants-agencies-in-ireland-2025-edition\", \"url\": \"https://www.beehivedesign.ie/blog/best-seo-consultants-agencies-in-ireland-2025-edition\"}]",
+    "captured_at": "2026-09-24T12:25:21.855350+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/blog/best-seo-consultants-agencies-in-ireland-2025-edition",
+        "captured_at": "2026-09-24T12:25:21.855350+00:00",
+        "representation": "http",
+        "body_sha256": "0b7bf12378ef706796bc95da091b482abdc0384b38eff4ed1938887bb56c1a33",
+        "html_path": "html/190772c3575315de7dfd5a2a14e5bfeb66be0499715a7af198f23fdd8e1f49c9.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/app-development-cost-in-ireland-your-guide-to-building-apps-in-2025",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/app-development-cost-in-ireland-your-guide-to-building-apps-in-2025\", \"url\": \"https://www.beehivedesign.ie/blog/app-development-cost-in-ireland-your-guide-to-building-apps-in-2025\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/blog/app-development-cost-in-ireland-your-guide-to-building-apps-in-2025"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/blog/app-development-cost-in-ireland-your-guide-to-building-apps-in-2025\", \"url\": \"https://www.beehivedesign.ie/blog/app-development-cost-in-ireland-your-guide-to-building-apps-in-2025\"}]",
+    "captured_at": "2026-09-24T12:25:23.935817+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/blog/app-development-cost-in-ireland-your-guide-to-building-apps-in-2025",
+        "captured_at": "2026-09-24T12:25:23.935817+00:00",
+        "representation": "http",
+        "body_sha256": "bfd85485483a291a63d417fb7e9b16e6f66f1de260f2ef858f9839eea97ab50d",
+        "html_path": "html/ef46c0a899de2f2a06f48259d001651f40ea47799e905954a14cfe6964d38bb1.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/top-10-private-practice-marketing-companies-in-the-usa",
+    "code": "multiple_h1_review",
+    "severity": "low",
+    "evidence": "[\"Top 10 Private Practice Marketing Companies in the USA for 2026\", \"What Should a Doctor Look for in a Marketing Partner?\", \"Which Type of Company Is Right for Your Practice?\", \"Start With Your Current Practice\"]",
+    "action": "Review heading hierarchy; multiple H1s alone do not establish an SEO defect.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/blog/top-10-private-practice-marketing-companies-in-the-usa"
+    ],
+    "observation": "[\"Top 10 Private Practice Marketing Companies in the USA for 2026\", \"What Should a Doctor Look for in a Marketing Partner?\", \"Which Type of Company Is Right for Your Practice?\", \"Start With Your Current Practice\"]",
+    "captured_at": "2026-09-24T12:25:23.936113+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "Review this recorded signal in the context of the page's intended customer journey.",
+    "business_relevance": null,
+    "recommended_action": "Review heading hierarchy; multiple H1s alone do not establish an SEO defect.",
+    "priority": "P3",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Apply the stated action on the affected URL, recrawl it, and compare this exact evidence and issue code with the prior capture.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/blog/top-10-private-practice-marketing-companies-in-the-usa",
+        "captured_at": "2026-09-24T12:25:23.936113+00:00",
+        "representation": "http",
+        "body_sha256": "3bbe1f6526c75f2467b123a7453e4c119755628657e9be7a6564384b79820e3b",
+        "html_path": "html/c4d2750ed144670ab6f2bc05ee4d902750ab68e5ae7e6abe2688aa8210f190d8.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/top-10-private-practice-marketing-companies-in-the-usa",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/top-10-private-practice-marketing-companies-in-the-usa\", \"url\": \"https://www.beehivedesign.ie/blog/top-10-private-practice-marketing-companies-in-the-usa\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/blog/top-10-private-practice-marketing-companies-in-the-usa"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/blog/top-10-private-practice-marketing-companies-in-the-usa\", \"url\": \"https://www.beehivedesign.ie/blog/top-10-private-practice-marketing-companies-in-the-usa\"}]",
+    "captured_at": "2026-09-24T12:25:23.936113+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/blog/top-10-private-practice-marketing-companies-in-the-usa",
+        "captured_at": "2026-09-24T12:25:23.936113+00:00",
+        "representation": "http",
+        "body_sha256": "3bbe1f6526c75f2467b123a7453e4c119755628657e9be7a6564384b79820e3b",
+        "html_path": "html/c4d2750ed144670ab6f2bc05ee4d902750ab68e5ae7e6abe2688aa8210f190d8.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/10-best-wedding-planners-in-ireland-for-2026",
+    "code": "multiple_h1_review",
+    "severity": "low",
+    "evidence": "[\"10 Best Wedding Planners in Ireland for 2026\", \"How to Choose the Best Wedding Planner in Ireland\", \"Do You Really Need a Wedding Planner?\", \"Why Weddings with Erica Is Our Top Pick\"]",
+    "action": "Review heading hierarchy; multiple H1s alone do not establish an SEO defect.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/blog/10-best-wedding-planners-in-ireland-for-2026"
+    ],
+    "observation": "[\"10 Best Wedding Planners in Ireland for 2026\", \"How to Choose the Best Wedding Planner in Ireland\", \"Do You Really Need a Wedding Planner?\", \"Why Weddings with Erica Is Our Top Pick\"]",
+    "captured_at": "2026-09-24T12:25:23.936024+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "Review this recorded signal in the context of the page's intended customer journey.",
+    "business_relevance": null,
+    "recommended_action": "Review heading hierarchy; multiple H1s alone do not establish an SEO defect.",
+    "priority": "P3",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Apply the stated action on the affected URL, recrawl it, and compare this exact evidence and issue code with the prior capture.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/blog/10-best-wedding-planners-in-ireland-for-2026",
+        "captured_at": "2026-09-24T12:25:23.936024+00:00",
+        "representation": "http",
+        "body_sha256": "e28266bddf25c7f66cbf9380395ad7b9992284bb0e26a1b6dba78e04765fc3e9",
+        "html_path": "html/1101f29de849922ce84369acef62f4afabb7d13c3ce31cf7f7b1db6a78a4c18e.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/10-best-wedding-planners-in-ireland-for-2026",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/10-best-wedding-planners-in-ireland-for-2026\", \"url\": \"https://www.beehivedesign.ie/blog/10-best-wedding-planners-in-ireland-for-2026\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/blog/10-best-wedding-planners-in-ireland-for-2026"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/blog/10-best-wedding-planners-in-ireland-for-2026\", \"url\": \"https://www.beehivedesign.ie/blog/10-best-wedding-planners-in-ireland-for-2026\"}]",
+    "captured_at": "2026-09-24T12:25:23.936024+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/blog/10-best-wedding-planners-in-ireland-for-2026",
+        "captured_at": "2026-09-24T12:25:23.936024+00:00",
+        "representation": "http",
+        "body_sha256": "e28266bddf25c7f66cbf9380395ad7b9992284bb0e26a1b6dba78e04765fc3e9",
+        "html_path": "html/1101f29de849922ce84369acef62f4afabb7d13c3ce31cf7f7b1db6a78a4c18e.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/top-10-best-seo-companies-in-ireland-2025-rankings-reviews",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/top-10-best-seo-companies-in-ireland-2025-rankings-reviews\", \"url\": \"https://www.beehivedesign.ie/blog/top-10-best-seo-companies-in-ireland-2025-rankings-reviews\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/blog/top-10-best-seo-companies-in-ireland-2025-rankings-reviews"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/blog/top-10-best-seo-companies-in-ireland-2025-rankings-reviews\", \"url\": \"https://www.beehivedesign.ie/blog/top-10-best-seo-companies-in-ireland-2025-rankings-reviews\"}]",
+    "captured_at": "2026-09-24T12:25:26.003046+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/blog/top-10-best-seo-companies-in-ireland-2025-rankings-reviews",
+        "captured_at": "2026-09-24T12:25:26.003046+00:00",
+        "representation": "http",
+        "body_sha256": "816a4c545aeeaa76b3dcdc30e5d006e1d29c07ea2feea8c2b3ea35aba01ae609",
+        "html_path": "html/77e95aa0e626e0465ffd73167a8bae951319ff5e200b4f4f0e5bade0087c084a.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/top-10-seo-companies-in-cork-ireland-2025-edition",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/top-10-seo-companies-in-cork-ireland-2025-edition\", \"url\": \"https://www.beehivedesign.ie/blog/top-10-seo-companies-in-cork-ireland-2025-edition\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/blog/top-10-seo-companies-in-cork-ireland-2025-edition"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/blog/top-10-seo-companies-in-cork-ireland-2025-edition\", \"url\": \"https://www.beehivedesign.ie/blog/top-10-seo-companies-in-cork-ireland-2025-edition\"}]",
+    "captured_at": "2026-09-24T12:25:26.003335+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/blog/top-10-seo-companies-in-cork-ireland-2025-edition",
+        "captured_at": "2026-09-24T12:25:26.003335+00:00",
+        "representation": "http",
+        "body_sha256": "e19ae38e861743be4c1b9b7ca28d1f4da21378afdcc949c9ac86c3e00365b79b",
+        "html_path": "html/12bc9f0c462b8ae84a660eb6ca84ce3889b7ede5b385f94598de0d5f85f94168.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/best-shopify-seo-agencies-in-ireland",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/best-shopify-seo-agencies-in-ireland\", \"url\": \"https://www.beehivedesign.ie/blog/best-shopify-seo-agencies-in-ireland\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/blog/best-shopify-seo-agencies-in-ireland"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/blog/best-shopify-seo-agencies-in-ireland\", \"url\": \"https://www.beehivedesign.ie/blog/best-shopify-seo-agencies-in-ireland\"}]",
+    "captured_at": "2026-09-24T12:25:26.003190+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/blog/best-shopify-seo-agencies-in-ireland",
+        "captured_at": "2026-09-24T12:25:26.003190+00:00",
+        "representation": "http",
+        "body_sha256": "6fa121a52e98084333fbf70f0d568439684dddb84300c4cbe55c52e6c9011285",
+        "html_path": "html/16d3c7c16cb2632da0ac48022c6e2d468fcbea45e531c782aefc58e70e891dbc.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/5-digital-marketing-trends-shaping-the-irish-business-scene",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/5-digital-marketing-trends-shaping-the-irish-business-scene\", \"url\": \"https://www.beehivedesign.ie/blog/5-digital-marketing-trends-shaping-the-irish-business-scene\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/blog/5-digital-marketing-trends-shaping-the-irish-business-scene"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/blog/5-digital-marketing-trends-shaping-the-irish-business-scene\", \"url\": \"https://www.beehivedesign.ie/blog/5-digital-marketing-trends-shaping-the-irish-business-scene\"}]",
+    "captured_at": "2026-09-24T12:25:26.003272+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/blog/5-digital-marketing-trends-shaping-the-irish-business-scene",
+        "captured_at": "2026-09-24T12:25:26.003272+00:00",
+        "representation": "http",
+        "body_sha256": "8be593f646d5a8022a1063872d764a7ebd37ee0e48d4355a2b5cb5fb51244e5b",
+        "html_path": "html/d4cc49aa6ba614dfbf2e596df0cd5af588a4667dbefa212516389116bd3f0d12.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/the-power-of-localized-marketing-in-ireland",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/the-power-of-localized-marketing-in-ireland\", \"url\": \"https://www.beehivedesign.ie/blog/the-power-of-localized-marketing-in-ireland\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/blog/the-power-of-localized-marketing-in-ireland"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/blog/the-power-of-localized-marketing-in-ireland\", \"url\": \"https://www.beehivedesign.ie/blog/the-power-of-localized-marketing-in-ireland\"}]",
+    "captured_at": "2026-09-24T12:25:28.062313+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/blog/the-power-of-localized-marketing-in-ireland",
+        "captured_at": "2026-09-24T12:25:28.062313+00:00",
+        "representation": "http",
+        "body_sha256": "8a2ba630e20fabc711be9670d03aa305b0b0ba9441bf0d7d39b89426118c810b",
+        "html_path": "html/79d849d5a7fd9bb41abf8df46860d4fdbeecc5ebadef9626c548a385ffeaa8cd.html",
+        "rendered_html_path": null
+      }
+    ]
+  },
+  {
+    "url": "https://beehivedesign.vercel.app/blog/strategic-brand-positioning-for-irish-marketing-agencies",
+    "code": "canonical_elsewhere",
+    "severity": "info",
+    "evidence": "[{\"raw\": \"https://www.beehivedesign.ie/blog/strategic-brand-positioning-for-irish-marketing-agencies\", \"url\": \"https://www.beehivedesign.ie/blog/strategic-brand-positioning-for-irish-marketing-agencies\"}]",
+    "action": "Confirm that consolidation to the target page is intended.",
+    "confidence": "review",
+    "representation": "http",
+    "affected_urls": [
+      "https://beehivedesign.vercel.app/blog/strategic-brand-positioning-for-irish-marketing-agencies"
+    ],
+    "observation": "[{\"raw\": \"https://www.beehivedesign.ie/blog/strategic-brand-positioning-for-irish-marketing-agencies\", \"url\": \"https://www.beehivedesign.ie/blog/strategic-brand-positioning-for-irish-marketing-agencies\"}]",
+    "captured_at": "2026-09-24T12:25:28.062498+00:00",
+    "claim_type": "inference",
+    "why_it_matters": "A canonical signals consolidation, which should agree with the intended public URL.",
+    "business_relevance": null,
+    "recommended_action": "Confirm that consolidation to the target page is intended.",
+    "priority": "review",
+    "priority_rationale": "Based on observed access/content impact; review business importance before scheduling. Informational signals are not automatically defects.",
+    "acceptance_check": "Fetch the declared canonical and this URL; check redirects, status and consistent self-canonical declarations on the preferred page.",
+    "uncertainty": [
+      "Observation applies to captured representations; rankings, indexing and AI citations were not measured.",
+      "Business profile not yet reviewed; business-specific impact needs interpretation."
+    ],
+    "evidence_refs": [
+      {
+        "url": "https://beehivedesign.vercel.app/blog/strategic-brand-positioning-for-irish-marketing-agencies",
+        "captured_at": "2026-09-24T12:25:28.062498+00:00",
+        "representation": "http",
+        "body_sha256": "247466ce3f03e11961c322691cde27a05b0797c8296d9baeacbc80b9b9b34cb5",
+        "html_path": "html/6f11490277cab5ba520092c882e8c241b39727c19da3c18059220c72e6af4d50.html",
+        "rendered_html_path": null
+      }
+    ]
+  }
+]

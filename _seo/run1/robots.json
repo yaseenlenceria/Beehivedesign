@@ -1,0 +1,28 @@
+{
+  "https://beehivedesign.vercel.app": {
+    "url": "https://beehivedesign.vercel.app/robots.txt",
+    "status": 200,
+    "error": "",
+    "blocked": false,
+    "policy_availability": "available",
+    "fetched_at": "2026-09-24T12:25:17.032499+00:00",
+    "sha256": "00ac46ac3b18f914e55412eaa1113c6779391aa093b60aa70ca55f66b8677899",
+    "text": "User-agent: *\nAllow: /\n\n# Explicitly welcome AI search assistants\nUser-agent: GPTBot\nAllow: /\nUser-agent: OAI-SearchBot\nAllow: /\nUser-agent: ChatGPT-User\nAllow: /\nUser-agent: ClaudeBot\nAllow: /\nUser-agent: Claude-Web\nAllow: /\nUser-agent: anthropic-ai\nAllow: /\nUser-agent: PerplexityBot\nAllow: /\nUser-agent: Google-Extended\nAllow: /\nUser-agent: Applebot-Extended\nAllow: /\nUser-agent: CCBot\nAllow: /\n\nSitemap: https://www.beehivedesign.ie/sitemap.xml\n",
+    "redirects": [],
+    "http_events": [
+      {
+        "url": "https://beehivedesign.vercel.app/robots.txt",
+        "status": 200,
+        "error": "",
+        "fetched_at": "2026-09-24T12:25:17.032819+00:00",
+        "retry_after": null,
+        "challenge_detected": false
+      }
+    ],
+    "access": {
+      "code": "response_received",
+      "confidence": "observed",
+      "evidence": "HTTP 200 received; no supported denial/challenge marker detected."
+    }
+  }
+}
