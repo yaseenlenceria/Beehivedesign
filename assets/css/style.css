@@ -1145,3 +1145,7 @@ h1, h2, h3, h4 {
 
 /* Long URLs in prose must never widen the page */
 .prose a, .prose li, .takeaways li { overflow-wrap: anywhere; }
+
+/* Inline images from migrated articles */
+.inline-img { margin: 2rem 0; }
+.inline-img img { border-radius: var(--radius); width: 100%; height: auto; }
